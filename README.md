@@ -1,6 +1,6 @@
 # PLPBasicGitAssignment
 Basic Git and Github Workflow
-1. creation og git repository
+1. creation of git repository
 2. creation of a new folder on my machine and navigating through the folder
 3. initializing repository in my local folder
 4. connecting to github
